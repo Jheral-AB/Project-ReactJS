@@ -1,0 +1,10 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: lightcoral;
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
